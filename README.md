@@ -1,7 +1,7 @@
 # PFAS-GNN: Leakage-controlled transfer learning and chemical-space-aware routing for PFAS toxicity prediction
 
 Code, decontaminated data, and model weights for the manuscript
-"Chemical-space-aware routing enhances PFAS toxicity prediction" (DOI: [Zenodo DOI，第③步后回填]).
+"Chemical-space-aware routing enhances PFAS toxicity prediction" (DOI: 10.5281/zenodo.22869943).
 
 ## Contents
 - `train_pfas.py` — main pipeline: cleaning, homolog-aware scaffold splitting,
